@@ -4,8 +4,14 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: 开学典礼
    
+   开学典礼/开学典礼.md
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 测试基础理论
+
    Cpp/index
 
 ==================
