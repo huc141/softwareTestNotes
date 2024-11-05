@@ -6,7 +6,7 @@
    :maxdepth: 3
    :caption: 开学典礼
    
-   Cpp/index
+   Cpp/开学典礼/index
 
 .. toctree::
    :maxdepth: 3
