@@ -5,14 +5,12 @@
 .. toctree::
    :maxdepth: 3
    :caption: 开学典礼
-   
-   Cpp/开学典礼/index
+
 
 .. toctree::
    :maxdepth: 3
    :caption: 测试基础理论
 
-   Cpp/index
 
 ==================
 * :ref:`genindex`
