@@ -11,6 +11,7 @@
    :maxdepth: 3
    :caption: 测试基础理论
 
+   Cpp/index
 
 ==================
 * :ref:`genindex`
