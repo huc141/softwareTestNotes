@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'softwareTestNotes'
+project = '软测工程师入门笔记'
 copyright = '2024, YuLong Luo'
 author = 'YuLong Luo'
 release = '1.0'
