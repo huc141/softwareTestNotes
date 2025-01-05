@@ -1,0 +1,4 @@
+操作手册：
+
+HTTP服务启动命令：sphinx-autobuild source build/html
+默认启动 8000 端口，在浏览器输入 http://127.0.0.1:8000
